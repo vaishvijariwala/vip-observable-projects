@@ -1,0 +1,68 @@
+Lung, NOS
+Endometrium
+Brain, NOS
+Ovary
+Bone marrow
+Ampulla of Vater
+Parotid gland
+Stomach, NOS
+Kidney, NOS
+Not Reported
+Specified parts of peritoneum
+Liver
+Adrenal gland, NOS
+Breast, NOS
+Uterus, NOS
+Pelvic bones, sacrum, coccyx and associated joints
+Trachea
+Nasal cavity
+Rectum, NOS
+Bladder, NOS
+Esophagus, NOS
+Gallbladder
+Abdomen, NOS
+Other ill-defined sites
+Testis, NOS
+Appendix
+Skin, NOS
+Mouth, NOS
+Vulva, NOS
+Tonsil, NOS
+Mediastinum, NOS
+Cervix uteri
+External ear
+Small intestine, NOS
+Pleura, NOS
+Pancreas, NOS
+Ureter
+Penis, NOS
+Lymph node, NOS
+Spleen
+Connective, subcutaneous and other soft tissues of thorax
+Anal canal
+Peritoneum, NOS
+Duodenum
+Thorax, NOS
+Thymus
+Unknown primary site
+Major salivary gland, NOS
+Pelvis, NOS
+Extrahepatic bile duct
+Heart
+Bone, NOS
+Vagina, NOS
+Connective, subcutaneous and other soft tissues, NOS
+Vertebral column
+Thyroid gland
+Blood
+Prostate gland
+Pituitary gland
+Fallopian tube
+Cardia, NOS
+Tongue, NOS
+Nervous system, NOS
+Eye, NOS
+Larynx, NOS
+Head, face or neck, NOS
+Colon, NOS
+Urethra
